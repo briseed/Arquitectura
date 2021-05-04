@@ -14,4 +14,4 @@ void loop() //el loop hace que el programa comienza directamente después del co
     digitalWrite(3, HIGH); //actulizamos el pin 3, en prendido, HIGH 
   }
   
-}
+}//fghfghgfh
